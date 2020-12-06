@@ -21,5 +21,5 @@ Front end development is very tedious work and requires a lot of attention and p
 ## What's next for Brain Party
 We are planning on creating custom multiplayer games and look forward to improving it further!
 
-###Built With
+### Built With
 HTML/CSS, JavaScript, bootstrap, jquery
